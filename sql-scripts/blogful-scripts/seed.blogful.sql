@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title,content,date_published)
+    VALUES
+        ('why dex is better the str','it''s not' , now()),
+        ('Konosuba, not you dad''s comedy show ','funny story about a kid that dies in an embarsing way', now()),
+        ('sing yesterday for me, a harsh look into modern life' , 'romance is dumb', now()),
+        ('tokyo godfathers, a not so christmas movie ','3 homeless people find dumpster bady on xmiss eve', now()),
+        ('Tower of God, who put Korean webcomics in my anime? ','bam finds him self in a tower looking for his lost love?', now()),
+        ('Hakumei and Mikochi, a cute little story ','SoL of small people in a big forest', now()),
+        ('perfect blue, a horro film','once pop star turned actor finds her self in a terrifying new world ', now()),
+        ('komi san can''t communicate','she dones''t talk much', now()),
+        ('Dungeon Meshi','if you can kill it you can eat it.. in short', now()),
+        ('Useless Ponko','old robot working for lonely old man', now()),
+        ('Mireruko-chan','she can see them', now()),
+        ('Gokushufudou: The Way of the House Husband','yakiza turned house husban', now()),
+        ('Kimetsu no Yaiba','demon slayer', now()),
+        ('Maou no Musume wa Yasashi Sugiru!!','demon king has stopped trying to take over the world.. why? ', now()),
+        ('Uzumaki','spoooooookie', now()),
+        ('The Private Report on My Lesbian Experience with Loneliness','true story about depression and finding one self', now()),
+        ('Shoujo Shuumatsu Ryokou','good story', now()),
+        ('Hinamatsuri','funny', now()),
+        ('I Sold Off My Lifespan, For 10,000 Yen A Year.','sad', now()),
+        ('uuuuur','oooooooof',now());
