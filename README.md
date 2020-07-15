@@ -1,4 +1,4 @@
-#working with databases 
-date uhhhh today?
-(jul 14th 2020)
-michael O & Gage M 
+#working with databases ... again 
+date... uhhhh today?
+(jul 15th 2020)
+Weskey Rou & Gage M 
